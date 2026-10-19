@@ -1,0 +1,28 @@
+# .NET build output
+bin/
+obj/
+out/
+
+# Visual Studio / IDE state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs and OS junk
+*.log
+Thumbs.db
+.DS_Store
+
+# Assignment document (kept local)
+Instructions.txt
